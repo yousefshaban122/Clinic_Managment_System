@@ -17,3 +17,23 @@ D:\cs\Clinic project\Clinic.Infrastructure\obj\Debug\net8.0\refint\Clinic.Infras
 D:\cs\Clinic project\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.pdb
 D:\cs\Clinic project\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.genruntimeconfig.cache
 D:\cs\Clinic project\Clinic.Infrastructure\obj\Debug\net8.0\ref\Clinic.Infrastructure.dll
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.dll
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\refint\Clinic.Infrastructure.dll
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.pdb
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Infrastructure.deps.json
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Infrastructure.runtimeconfig.json
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Infrastructure.dll
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Infrastructure.pdb
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Application.dll
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Domain.dll
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Application.pdb
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\bin\Debug\net8.0\Clinic.Domain.pdb
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.csproj.AssemblyReference.cache
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.AssemblyInfoInputs.cache
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.AssemblyInfo.cs
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.csproj.CoreCompileInputs.cache
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.sourcelink.json
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.I.E1C7F613.Up2Date
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\Clinic.Infrastructure.genruntimeconfig.cache
+D:\games\Clinic_Managment_System\Clinic.Infrastructure\obj\Debug\net8.0\ref\Clinic.Infrastructure.dll
