@@ -23,7 +23,6 @@ public static class Program
         builder.Services.AddFluentValidationAutoValidation();
         builder.Services.AddApplication();
         builder.Services.AddInfrastructureServices();
-
         builder.Services.AddDbContext<App_Context>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

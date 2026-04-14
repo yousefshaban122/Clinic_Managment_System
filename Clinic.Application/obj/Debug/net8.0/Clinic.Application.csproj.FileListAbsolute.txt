@@ -13,3 +13,19 @@ D:\cs\Clinic project\Clinic.Application\obj\Debug\net8.0\Clinic.Application.dll
 D:\cs\Clinic project\Clinic.Application\obj\Debug\net8.0\refint\Clinic.Application.dll
 D:\cs\Clinic project\Clinic.Application\obj\Debug\net8.0\Clinic.Application.pdb
 D:\cs\Clinic project\Clinic.Application\obj\Debug\net8.0\ref\Clinic.Application.dll
+D:\games\Clinic_Managment_System\Clinic.Application\bin\Debug\net8.0\Clinic.Application.deps.json
+D:\games\Clinic_Managment_System\Clinic.Application\bin\Debug\net8.0\Clinic.Application.dll
+D:\games\Clinic_Managment_System\Clinic.Application\bin\Debug\net8.0\Clinic.Application.pdb
+D:\games\Clinic_Managment_System\Clinic.Application\bin\Debug\net8.0\Clinic.Domain.dll
+D:\games\Clinic_Managment_System\Clinic.Application\bin\Debug\net8.0\Clinic.Domain.pdb
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.csproj.AssemblyReference.cache
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.AssemblyInfoInputs.cache
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.AssemblyInfo.cs
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.csproj.CoreCompileInputs.cache
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.sourcelink.json
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.A.00647483.Up2Date
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.dll
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\refint\Clinic.Application.dll
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\Clinic.Application.pdb
+D:\games\Clinic_Managment_System\Clinic.Application\obj\Debug\net8.0\ref\Clinic.Application.dll

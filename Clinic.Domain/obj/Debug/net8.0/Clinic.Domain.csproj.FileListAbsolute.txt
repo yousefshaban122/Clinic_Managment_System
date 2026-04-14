@@ -9,3 +9,15 @@ D:\cs\Clinic project\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.dll
 D:\cs\Clinic project\Clinic.Domain\obj\Debug\net8.0\refint\Clinic.Domain.dll
 D:\cs\Clinic project\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.pdb
 D:\cs\Clinic project\Clinic.Domain\obj\Debug\net8.0\ref\Clinic.Domain.dll
+D:\games\Clinic_Managment_System\Clinic.Domain\bin\Debug\net8.0\Clinic.Domain.deps.json
+D:\games\Clinic_Managment_System\Clinic.Domain\bin\Debug\net8.0\Clinic.Domain.dll
+D:\games\Clinic_Managment_System\Clinic.Domain\bin\Debug\net8.0\Clinic.Domain.pdb
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.AssemblyInfoInputs.cache
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.AssemblyInfo.cs
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.csproj.CoreCompileInputs.cache
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.sourcelink.json
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.dll
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\refint\Clinic.Domain.dll
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.pdb
+D:\games\Clinic_Managment_System\Clinic.Domain\obj\Debug\net8.0\ref\Clinic.Domain.dll
