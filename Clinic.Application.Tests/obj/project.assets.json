@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cs\\Clinic project\\Clinic.Application.Tests\\Clinic.Application.Tests.csproj",
+      "projectUniqueName": "D:\\games\\Clinic_Managment_System\\Clinic.Application.Tests\\Clinic.Application.Tests.csproj",
       "projectName": "Clinic.Application.Tests",
-      "projectPath": "D:\\cs\\Clinic project\\Clinic.Application.Tests\\Clinic.Application.Tests.csproj",
+      "projectPath": "D:\\games\\Clinic_Managment_System\\Clinic.Application.Tests\\Clinic.Application.Tests.csproj",
       "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-      "outputPath": "D:\\cs\\Clinic project\\Clinic.Application.Tests\\obj\\",
+      "outputPath": "D:\\games\\Clinic_Managment_System\\Clinic.Application.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5769,11 +5769,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\cs\\Clinic project\\Clinic.Application\\Clinic.Application.csproj": {
-              "projectPath": "D:\\cs\\Clinic project\\Clinic.Application\\Clinic.Application.csproj"
+            "D:\\games\\Clinic_Managment_System\\Clinic.Application\\Clinic.Application.csproj": {
+              "projectPath": "D:\\games\\Clinic_Managment_System\\Clinic.Application\\Clinic.Application.csproj"
             },
-            "D:\\cs\\Clinic project\\Clinic.Domain\\Clinic.Domain.csproj": {
-              "projectPath": "D:\\cs\\Clinic project\\Clinic.Domain\\Clinic.Domain.csproj"
+            "D:\\games\\Clinic_Managment_System\\Clinic.Domain\\Clinic.Domain.csproj": {
+              "projectPath": "D:\\games\\Clinic_Managment_System\\Clinic.Domain\\Clinic.Domain.csproj"
             }
           }
         }

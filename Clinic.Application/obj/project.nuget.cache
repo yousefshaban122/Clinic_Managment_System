@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/k1UK+jJF0A=",
+  "dgSpecHash": "rX/rEaMmWqY=",
   "success": true,
-  "projectFilePath": "D:\\cs\\Clinic project\\Clinic.Application\\Clinic.Application.csproj",
+  "projectFilePath": "D:\\games\\Clinic_Managment_System\\Clinic.Application\\Clinic.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEGION\\.nuget\\packages\\fluentvalidation\\11.3.0\\fluentvalidation.11.3.0.nupkg.sha512",
     "C:\\Users\\LEGION\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.3.0\\fluentvalidation.dependencyinjectionextensions.11.3.0.nupkg.sha512",
